@@ -1,0 +1,6 @@
+1: triangle created (-3, 0), (0, 0), (-5, 2)
+2: triangle created (0, 0), (1, 1), (-1, 1)
+2: triangle deleted (0, 0), (1, 1), (-1, 1)
+1: triangle deleted (3, 0), (0, 0), (0, 2)
+3: triangle created (0, 0), (1, 1), (-1, 1)
+3: triangle deleted (0, 0), (1, 1), (-1, 1)
